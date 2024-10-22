@@ -233,7 +233,7 @@ width: 100%;
 display: flex;
 justify-content: center;
 align-items: end;
-background-image: url("amazon/hero-page.jpg");
+background-image: url("hero-page.jpg");
 background-size: cover;
 }
 .longtext{
@@ -278,7 +278,7 @@ background-size: cover;
 .boxa{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/mouse.jpg");
+    background-image: url("mouse.jpg");
     background-position: 50%;
     background-size: cover;
 }
@@ -286,7 +286,7 @@ background-size: cover;
     height: 120px;
     width: 120px;
     
-    background-image: url("amazon/keyboard.jpg");
+    background-image: url("keyboard.jpg");
     background-position: 50%;
     background-size: cover;
     
@@ -313,7 +313,7 @@ background-size: cover;
 .boxc{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/headphone.jpg");
+    background-image: url("headphone.jpg");
     background-position: 50%;
     background-size: cover;
 
@@ -321,7 +321,7 @@ background-size: cover;
 .boxd{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/chair.jpg");
+    background-image: url("chair.jpg");
     background-position: 50%;
     background-size: cover;
 }
@@ -335,7 +335,7 @@ background-size: cover;
 .boxaa{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/glass.jpg");
+    background-image: url("glass.jpg");
     background-position: 50%;
     background-size: cover;
 }
@@ -343,7 +343,7 @@ background-size: cover;
 .boxbb{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/home.jpg");
+    background-image: url("home.jpg");
     background-position: 50%;
     background-size: cover;
 
@@ -351,7 +351,7 @@ background-size: cover;
 .boxcc{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/kitchen.jpg");
+    background-image: url("kitchen.jpg");
     background-position: 50%;
     background-size: cover;
 
@@ -359,14 +359,14 @@ background-size: cover;
 .boxdd{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/health.jpg");
+    background-image: url("health.jpg");
     background-position: 50%;
     background-size: cover;
 }
 .boxaaa{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/jeans.jpg");
+    background-image: url("jeans.jpg");
     background-position: 50%;
     background-size: cover;
 
@@ -374,21 +374,21 @@ background-size: cover;
 .boxbbb{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/tops.jpg");
+    background-image: url("tops.jpg");
     background-position: 50%;
     background-size: cover;
 }
 .boxccc{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/dress.jpg");
+    background-image: url("dress.jpg");
     background-position: 50%;
     background-size: cover;
 }
 .boxddd{
     height: 120px;
     width: 125px    ;
-    background-image: url("amazon/shoes.jpg");
+    background-image: url("shoes.jpg");
     background-position: 50%;
     background-size: cover;
 }
